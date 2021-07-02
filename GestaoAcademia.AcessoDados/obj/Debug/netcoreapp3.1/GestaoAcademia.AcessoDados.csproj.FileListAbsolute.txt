@@ -1,0 +1,15 @@
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\bin\Debug\netcoreapp3.1\GestaoAcademia.Dominio.dll
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\obj\Debug\netcoreapp3.1\GestaoAcademia.AcessoDados.csprojAssemblyReference.cache
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\obj\Debug\netcoreapp3.1\GestaoAcademia.AcessoDados.AssemblyInfoInputs.cache
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\obj\Debug\netcoreapp3.1\GestaoAcademia.AcessoDados.AssemblyInfo.cs
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\bin\Debug\netcoreapp3.1\GestaoAcademia.AcessoDados.deps.json
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\bin\Debug\netcoreapp3.1\GestaoAcademia.AcessoDados.runtimeconfig.json
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\bin\Debug\netcoreapp3.1\GestaoAcademia.AcessoDados.runtimeconfig.dev.json
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\bin\Debug\netcoreapp3.1\GestaoAcademia.AcessoDados.dll
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\bin\Debug\netcoreapp3.1\GestaoAcademia.AcessoDados.pdb
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\bin\Debug\netcoreapp3.1\GestaoAcademia.Dominio.pdb
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\obj\Debug\netcoreapp3.1\GestaoAcademia.AcessoDados.csproj.CoreCompileInputs.cache
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\obj\Debug\netcoreapp3.1\GestaoAcademia.AcessoDados.csproj.CopyComplete
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\obj\Debug\netcoreapp3.1\GestaoAcademia.AcessoDados.dll
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\obj\Debug\netcoreapp3.1\GestaoAcademia.AcessoDados.pdb
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.AcessoDados\obj\Debug\netcoreapp3.1\GestaoAcademia.AcessoDados.genruntimeconfig.cache

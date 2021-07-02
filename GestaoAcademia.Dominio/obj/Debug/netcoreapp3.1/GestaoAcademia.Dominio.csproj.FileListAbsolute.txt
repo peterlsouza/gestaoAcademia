@@ -1,0 +1,9 @@
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.Dominio\bin\Debug\netcoreapp3.1\GestaoAcademia.Dominio.deps.json
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.Dominio\bin\Debug\netcoreapp3.1\GestaoAcademia.Dominio.dll
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.Dominio\bin\Debug\netcoreapp3.1\GestaoAcademia.Dominio.pdb
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.Dominio\obj\Debug\netcoreapp3.1\GestaoAcademia.Dominio.csprojAssemblyReference.cache
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.Dominio\obj\Debug\netcoreapp3.1\GestaoAcademia.Dominio.AssemblyInfoInputs.cache
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.Dominio\obj\Debug\netcoreapp3.1\GestaoAcademia.Dominio.AssemblyInfo.cs
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.Dominio\obj\Debug\netcoreapp3.1\GestaoAcademia.Dominio.dll
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.Dominio\obj\Debug\netcoreapp3.1\GestaoAcademia.Dominio.pdb
+C:\Labs\Udemy_DotNet\GestaoAcademia\GestaoAcademia\GestaoAcademia.Dominio\obj\Debug\netcoreapp3.1\GestaoAcademia.Dominio.csproj.CoreCompileInputs.cache
